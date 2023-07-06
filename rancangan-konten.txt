@@ -1,8 +1,9 @@
 Rancangan Konten
 
 -Javascript
+  * Reacts JS
+  * Node JS
 -Dasar -Dasar Javascript
 -Framework
--Video Tutorial
--Menanalisis
+  * PHP Dasar
 -Membuat Fudamnetal Grup
