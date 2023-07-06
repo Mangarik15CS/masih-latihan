@@ -5,3 +5,4 @@ Rancangan Konten
 -Framework
 -Video Tutorial
 -Menanalisis
+-Membuat Fudamnetal Grup
