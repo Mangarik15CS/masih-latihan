@@ -6,3 +6,6 @@ Rancangan Konten
 -Video Tutorial
 -Menanalisis
 -Membuat Fudamnetal Grup
+-Membuat PHP Dasar
+-Codenither
+-Framwork PHP
